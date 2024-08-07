@@ -1,0 +1,13 @@
+name = "Modpack"
+author = "Luna Simons <luna@bddvlpr.com>"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "52c66b43ded12c6646c69fab46cd19fac8d0528654c3cf7f38eec078f4ec6611"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4-beta.1"
