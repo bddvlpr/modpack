@@ -29,6 +29,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
+metafile = true
+
+[[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
@@ -176,4 +181,9 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "cc0a19f55f9f04eb1b593129f81051afe20b119d126d40a5e4b03178a660e164"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "979234febbae24b516b463a0c7e4e3e07bad08d0b16114bcc45c6bb4a2af5e41"
 metafile = true
