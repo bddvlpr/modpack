@@ -99,6 +99,11 @@ hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "4637aea36cfa56c6456981c710535cdde86f1006fb4c1ba239fbc759b782cd88"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
