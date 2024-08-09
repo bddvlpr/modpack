@@ -224,6 +224,11 @@ hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "67290d6986ff23778b37e49da990b693f2e2574ac69370f854b02f11245a05b6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
