@@ -1,12 +1,12 @@
 name = "Modpack"
 author = "Luna Simons <luna@bddvlpr.com>"
-version = "1.1.1"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8eacfcfe4fcd14113df21d1183ca8189640ad45d1a7378d1521f5a87fb7280ae"
+hash = "43f5d027397ee62b4798f0de7af1bc9d241b3b471d6a58284676b5242d5afd73"
 
 [versions]
 fabric = "0.16.0"

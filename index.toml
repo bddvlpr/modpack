@@ -44,6 +44,11 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
+metafile = true
+
+[[files]]
 file = "mods/chest-tracker.pw.toml"
 hash = "2bbc76335047a3ba583afd60ad53b33855454df8dfddf488e7132ccfba32e148"
 metafile = true
@@ -114,6 +119,16 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "12c282358daec0441e6c59e6cc3089a89c43bb809786494d29cf2e8032f56839"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a6b87f63429f4558272ce9d17cac84018c413163ac89aea8547c93856632000b"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "06859e85abd86899e44b38c090d53f5804550aca2a23924fbb6bb1867d0b859a"
 metafile = true
@@ -136,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -179,6 +199,16 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "c2e2f7409348534023bdbe5a0ebb8644832a9d24ef728a44ad2ed143df5ce581"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-enchantments.pw.toml"
+hash = "d5f74d902f32b13cb7d43eecf007fe3194b8e3e7a55e28842d37615f2e437891"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -186,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "3b7a584ea5637c21f97d149d929a2505eb229c87eaab5fd7e4699a30515decc5"
 metafile = true
 
 [[files]]
@@ -206,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "2539ae8dc439729a9dc501f2e756a684d968e94d99e66b778880738e9ed3ac57"
 metafile = true
 
 [[files]]
